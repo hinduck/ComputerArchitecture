@@ -1,2 +1,2 @@
-# ComputerArchitecture
-IT006_UIT
+# Computer Architecture
+Môn: Kiến trúc máy tính - IT006 - UIT
